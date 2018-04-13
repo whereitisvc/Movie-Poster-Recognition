@@ -6,9 +6,9 @@ Designed an Android application which can easily attain information of movies by
 
 ## Demo
 Demo 1: *PAN*
-<img src="image/img1.png" />
+<img src="image/img1.JPG" />
 Demo 2: *AVATAR*
-<img src="image/img2.png" />
+<img src="image/img2.JPG" />
 
 ## Credit
 1. [Tesseract (Open Source OCR Library)](https://github.com/tesseract-ocr/tesseract)
